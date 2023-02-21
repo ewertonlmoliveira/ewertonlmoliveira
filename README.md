@@ -10,7 +10,7 @@ Mission: I propose to study and collaborate for the development of the community
 ### GitHub Stats:
 <hr>
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/ewertonlmoliveira">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewertonlmoliveira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonlmoliveira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
