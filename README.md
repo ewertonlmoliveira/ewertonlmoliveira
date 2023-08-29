@@ -17,10 +17,13 @@ Mission: I propose to study and collaborate together for the development of the 
 </div>
   
 <div style="display: inline_block"><br>
-  <img styalign="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img styalign="center" alt="MySql" height="40" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img styalign="center" alt="AAA" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" />
-                            
+  
+  <img styalign="center" alt="Bash" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img styalign="center" alt="Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img styalign="center" alt="Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+  <img styalign="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+                                    
           
 </div>
 
