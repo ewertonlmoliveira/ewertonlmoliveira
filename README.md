@@ -22,6 +22,8 @@ Mission: I propose to study and collaborate together for the development of the 
   <img styalign="center" alt="Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img styalign="center" alt="Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
   <img styalign="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img styalign="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
           
                                     
           
